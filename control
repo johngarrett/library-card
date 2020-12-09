@@ -1,0 +1,9 @@
+Package: com.garrepi.librarycard
+Name: Library Card
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Enable hiding apps via AppLibrary on iPadOS 
+Maintainer: garrepi
+Author: garrepi
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
